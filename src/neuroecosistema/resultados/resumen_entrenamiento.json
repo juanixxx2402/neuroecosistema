@@ -1,0 +1,34 @@
+[
+  {
+    "especie": "presa",
+    "arquitectura": [
+      11,
+      32,
+      16,
+      5
+    ],
+    "ejemplos_entrenamiento": 12787,
+    "ejemplos_validacion": 3296,
+    "perdida_validacion_inicial": 1.8423095497457227,
+    "exactitud_validacion_inicial": 0.047936893203883495,
+    "perdida_validacion_final": 0.2980884699604034,
+    "exactitud_validacion_final": 0.8844053398058253,
+    "cambio_pesos": 16.749475045173963
+  },
+  {
+    "especie": "depredador",
+    "arquitectura": [
+      8,
+      32,
+      16,
+      5
+    ],
+    "ejemplos_entrenamiento": 12780,
+    "ejemplos_validacion": 3312,
+    "perdida_validacion_inicial": 1.7941888317430874,
+    "exactitud_validacion_inicial": 0.023852657004830916,
+    "perdida_validacion_final": 0.003251771728827288,
+    "exactitud_validacion_final": 1.0,
+    "cambio_pesos": 12.968074612548918
+  }
+]
